@@ -1,4 +1,4 @@
-# NativeScript (Angular)
+# NativeScript: Scan Inventory
 
 ## Cel
 Zbuduj podstawową aplikację w **NativeScript używając framework Angular**, która używa **natywnej funkcji** oraz **komunikuje się z API**, z **3–4 widokami**.
